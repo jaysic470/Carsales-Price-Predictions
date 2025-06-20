@@ -1,4 +1,4 @@
-# Used Car Price Prediction – Rusty Bargain
+# Used Car Price Prediction – [Rusty Bargain](https://github.com/jaysic470/Carsales-Price-Predictions/blob/main/Carsales-Price-Predictions.ipynb)
 
 This project was developed for **Rusty Bargain**, a used car sales service, with the goal of building a machine learning model to accurately predict vehicle prices based on their technical specifications and historical listing data. This model is intended to power an internal pricing tool that helps customers get a fast and reliable quote for their car.
 
